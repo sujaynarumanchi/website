@@ -10,12 +10,12 @@ subtitle = ""
 widget = "projects"
 
 # Order that this section will appear in.
-weight = 40
+weight = 10
 
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 # Add or remove as many filters (`[[filter]]` instances) as you like.
@@ -24,14 +24,17 @@ view = 1
 [[filter]]
   name = "All"
   tag = "*"
-  
+
 [[filter]]
   name = "Deep Learning"
   tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Computer Vision"
+  tag = ".computer-vision"
+
+[[filter]]
+  name = "Recommendations"
+  tag = ".recommendations"
 
 +++
-

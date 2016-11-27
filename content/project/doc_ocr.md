@@ -1,28 +1,30 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2016-11-27"
 
 # Project title.
-title = "External Project"
+title = "Doc-OCR"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "Automatic Document Verification using OCR + substring match"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = ""
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 image = ""
 
+weight = 3
+
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["demo"]
+# Example: `tags = ["computer-vision"]`
+tags = ["deep-learning", "computer-vision"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
 +++
-
+Check out the [Flipkart App](https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en) to try it out.

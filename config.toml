@@ -104,12 +104,12 @@ googleAnalytics = ""
 
 [[menu.main]]
   name = "Patents & Publications"
-  url = "#publications_selected"
+  url = "#patents_publications"
   weight = 4
 
 [[menu.main]]
   name = "Teaching & Talks"
-  url = "#teaching"
+  url = "#talks_teaching"
   weight = 5
 
 [[menu.main]]
