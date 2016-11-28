@@ -27,4 +27,5 @@ external_link = ""
 math = false
 
 +++
-Check out the [Flipkart App](https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en) to try it out.
+
+Visual Semantic Embeddings

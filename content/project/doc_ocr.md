@@ -18,7 +18,7 @@ weight = 3
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["computer-vision"]`
-tags = ["deep-learning", "computer-vision"]
+tags = ["computer-vision"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

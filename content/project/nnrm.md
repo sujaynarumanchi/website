@@ -6,7 +6,7 @@ date = "2016-11-27"
 title = "Neural Network based Recommender System for e-commerce"
 
 # Project summary to display on homepage.
-summary = "blah blah blah"
+summary = "A recommendation engine that is a hybrid of collaborative filtering and content based techniques"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -27,4 +27,4 @@ external_link = ""
 math = false
 
 +++
-Check out the [Flipkart App](https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en) to try it out.
+A recommendation engine that is a hybrid of collaborative filtering and content based techniques

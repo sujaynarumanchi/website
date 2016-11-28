@@ -14,4 +14,5 @@ weight = 50
 +++
 
 - Talk at Deep Learning Conference, Bangalore. [Slides](/resources/DeployingDeepLearningSystems.pdf)
-- Introduction to Deep Learning Course at Flipkart.
+- *Introduction to Deep Learning* at Flipkart
+  - Prepared course material and programming exercises

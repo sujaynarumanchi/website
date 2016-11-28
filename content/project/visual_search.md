@@ -17,6 +17,7 @@ image = ""
 
 weight = 0
 
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["computer-vision", "deep-learning"]`
 tags = ["deep-learning", "computer-vision", "recommendations"]
