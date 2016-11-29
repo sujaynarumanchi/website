@@ -27,4 +27,4 @@ external_link = ""
 math = false
 
 +++
-Check out the [Flipkart App](https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en) to try it out.
+A Semi-Automatic background removal tool which uses Geodesic Distance Transform. Code to be released soon.

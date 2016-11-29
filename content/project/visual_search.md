@@ -18,9 +18,11 @@ image = ""
 weight = 0
 
 
+
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["computer-vision", "deep-learning"]`
-tags = ["deep-learning", "computer-vision", "recommendations"]
+tags = ["deep-learning", "computer-vision"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -30,3 +32,4 @@ math = false
 
 +++
 Check out the [Flipkart App](https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en) to try it out.
+[Slides](/resources/Slashn2015Presentation.pdf) and [Link](https://www.youtube.com/watch?v=INiDn5Nj1zQ&feature=youtu.be&list=PLNrODmzoJwwqgQIisV9K1Pi_9dzWllhDh) for the talk by my team at SlashN2015.

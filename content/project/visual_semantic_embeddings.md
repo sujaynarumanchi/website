@@ -28,4 +28,5 @@ math = false
 
 +++
 
-Visual Semantic Embeddings
+Multimodal Neural Network that embeds images and associated text into the same metric space.
+More details coming soon.

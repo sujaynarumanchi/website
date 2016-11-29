@@ -33,8 +33,4 @@ view = 0
   name = "Computer Vision"
   tag = ".computer-vision"
 
-[[filter]]
-  name = "Recommendations"
-  tag = ".recommendations"
-
 +++

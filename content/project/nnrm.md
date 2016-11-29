@@ -18,7 +18,7 @@ image = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["computer-vision", "deep-learning"]`
-tags = ["deep-learning", "recommendations"]
+tags = ["deep-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
