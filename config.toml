@@ -103,7 +103,7 @@ googleAnalytics = ""
 #   weight = 3
 
 [[menu.main]]
-  name = "Publications"
+  name = "Patents & Publications"
   url = "#patents_publications"
   weight = 4
 

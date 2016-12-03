@@ -16,3 +16,4 @@ weight = 50
 - Talk at Deep Learning Conference, Bangalore. [Slides](/resources/DeployingDeepLearningSystems.pdf)
 - *Introduction to Deep Learning* at Flipkart
   - Prepared course material and programming exercises
+- Teaching Assistant: Microelectronics, Signals and Systems at BITS Pilani

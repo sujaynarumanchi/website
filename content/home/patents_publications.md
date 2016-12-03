@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Publications"
+title = "Patents & Publications"
 subtitle = ""
 widget = "publications"
 
@@ -22,3 +22,9 @@ detailed_list = false
 str_all = "More Publications"
 
 +++
+
+Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce *(In Progress)* \\
+*Krishnendu Chaudhury, Devashish Shankar, Sujay Narumanchi, Ananya H*
+
+NNRM: Neural Network Recommendation Modelling for E-Commerce *(In progress)* \\
+*Krishnendu Chaudhury, Devashish Shankar, Sujay Narumanchi, Ananya H, Pramod Kompalli*
